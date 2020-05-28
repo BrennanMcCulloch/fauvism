@@ -1,0 +1,102 @@
+Base path: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=14406 outsize=130029 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14406 outsize=47889 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14406 outsize=31937 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14406 outsize=42669 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14406 outsize=70245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14406 outsize=83049 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=59181 outsize=119953 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=68857 outsize=142885 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=61761 outsize=124665 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=48881 outsize=92937 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=45113 outsize=83609 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=58093 outsize=115313 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=44253 outsize=81257 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=32997 outsize=52661 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=61217 outsize=125465 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=54805 outsize=113133 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=51077 outsize=98813 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=83765 outsize=179929 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=26648 outsize=17661 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=17661 outsize=34325 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9347 outsize=10081 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9933 outsize=14065 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11505 outsize=25205 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4918 outsize=10885 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11277 outsize=5873 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12239 outsize=2081 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=7423 outsize=1557 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1889 outsize=2361 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20012 outsize=17693 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=17205 outsize=35197 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3022 outsize=2813 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=841 outsize=1257 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=7704 outsize=1157 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10081 outsize=3485 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=35437 outsize=60753 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34508 outsize=45377 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34508 outsize=45377 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=47001 outsize=93705 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=47657 outsize=94657 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3681 outsize=5441 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5089 outsize=1801 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5089 outsize=1397 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9433 outsize=2629 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=14985 outsize=12061 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=7712 outsize=15609 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=12341 outsize=6825 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3918 outsize=10833 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=7060 outsize=2820 kw=_NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=22936 outsize=19436 kw=LIGHTMAP_ON DIRLIGHTMAP_COMBINED DECALS_3RT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
