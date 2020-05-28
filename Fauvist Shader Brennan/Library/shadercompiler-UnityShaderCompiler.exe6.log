@@ -1,0 +1,46 @@
+Base path: E:/Unity Editors/2019.1.6f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=62241 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=21745 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=39357 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=33141 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=74677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15525 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5767 outsize=5793 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=12813 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=6509 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10562 outsize=3513 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2905 outsize=1849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7704 outsize=1781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=857 outsize=573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=34605 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=1233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=2761 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=945 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3506 outsize=1437 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2962 outsize=1838 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3734 outsize=6130 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
