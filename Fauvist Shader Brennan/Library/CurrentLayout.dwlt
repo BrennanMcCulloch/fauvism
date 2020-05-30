@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 59
-    y: 53
-    width: 1804
-    height: 975
+    x: 640
+    y: 281
+    width: 641
+    height: 503
   m_ShowMode: 0
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 100, y: 120}
+  m_MinSize: {x: 300, y: 320}
   m_MaxSize: {x: 4000, y: 4020}
 --- !u!114 &2
 MonoBehaviour:
@@ -63,9 +63,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1804
-    height: 975
-  m_MinSize: {x: 100, y: 120}
+    width: 641
+    height: 503
+  m_MinSize: {x: 300, y: 320}
   m_MaxSize: {x: 4000, y: 4020}
   m_ActualView: {fileID: 15}
   m_Panes:
@@ -90,12 +90,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1804
-    height: 975
-  m_MinSize: {x: 100, y: 120}
+    width: 641
+    height: 503
+  m_MinSize: {x: 300, y: 320}
   m_MaxSize: {x: 4000, y: 4020}
   vertical: 0
-  controlID: 141
+  controlID: 184
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 444}
   m_MaxSize: {x: 22012, y: 10022}
   vertical: 0
-  controlID: 35
+  controlID: 155
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -214,7 +214,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 36
+  controlID: 38
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,24 +354,27 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 924ffcbe75518854f97b48776d0f1939, type: 3}
+  m_Script: {fileID: 13854, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
+  m_MinSize: {x: 300, y: 300}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: TryingAgain
-    m_Image: {fileID: 0}
+    m_Text: Project Settings
+    m_Image: {fileID: 8487775502441791945, guid: 0000000000000000d000000000000000,
+      type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 59
-    y: 53
-    width: 1804
-    height: 954
+    x: 640
+    y: 281
+    width: 641
+    height: 482
   m_ViewDataDictionary: {fileID: 0}
-  m_Selected: 99cdecefe12e147a2a830485eaf498bc
-  m_GraphObject: {fileID: 0}
+  m_PosLeft: {x: 0, y: 0}
+  m_PosRight: {x: 0, y: 0}
+  m_Scope: 1
+  m_SplitterFlex: 0.2
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,9 +404,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ac340000
       m_LastClickedID: 0
-      m_ExpandedIDs: 26d2ffff
+      m_ExpandedIDs: 8efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -501,20 +504,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Settings
   m_ViewMode: 1
   m_StartGridSize: 61
   m_LastFolders:
-  - Assets
+  - Assets/Settings
   m_LastFoldersGridSize: 61
   m_LastProjectPath: C:\Users\Edmund\Documents\GitHub\fauvism\Fauvist Shader Brennan
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 42540000
-    m_LastClickedID: 21570
-    m_ExpandedIDs: 000000004254000000ca9a3b
+    m_SelectedIDs: d4330000
+    m_LastClickedID: 13268
+    m_ExpandedIDs: 00000000ac31000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -542,7 +545,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000042540000
+    m_ExpandedIDs: 00000000ac310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -714,9 +717,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.82706225, y: 2.3092563, z: 0.83697975}
+    m_Target: {x: 0.76010275, y: 2.341243, z: 0.76920867}
     speed: 2
-    m_Value: {x: 0.82706225, y: 2.3092563, z: 0.83697975}
+    m_Value: {x: 0.76010275, y: 2.341243, z: 0.76920867}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -745,13 +748,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.030301124, y: 0.9037829, z: 0.06490412, w: 0.42195678}
+    m_Target: {x: -0.034017075, y: 0.9132783, z: 0.07799161, w: 0.39835286}
     speed: 2
-    m_Value: {x: -0.030398421, y: 0.9031482, z: 0.06485855, w: 0.42331162}
+    m_Value: {x: -0.0333045, y: 0.9139899, z: 0.07667157, w: 0.39703247}
   m_Size:
     m_Target: 1.5341461
     speed: 2
-    m_Value: 1.2341461
+    m_Value: 1.834146
   m_Ortho:
     m_Target: 0
     speed: 2
