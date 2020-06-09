@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class mouseCamera : MonoBehaviour
 {
-     public Vector2 mouseLook;
+    public Vector2 mouseLook;
     public Vector2 smoothV;
     public float sensitivity ; 
     public float smoothing;
