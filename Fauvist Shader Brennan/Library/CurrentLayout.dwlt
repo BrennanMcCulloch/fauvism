@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -71,10 +71,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 677, y: 494}
-  m_MaxSize: {x: 12002, y: 14044}
+  m_MinSize: {x: 683, y: 494}
+  m_MaxSize: {x: 12008, y: 14044}
   vertical: 1
-  controlID: 38
+  controlID: 20
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 265
     height: 614
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -196,10 +196,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 614
-  m_MinSize: {x: 677, y: 222}
-  m_MaxSize: {x: 12002, y: 4022}
+  m_MinSize: {x: 683, y: 222}
+  m_MaxSize: {x: 12008, y: 4022}
   vertical: 0
-  controlID: 39
+  controlID: 21
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -333,9 +333,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ce410000
-      m_LastClickedID: 16846
-      m_ExpandedIDs: 0af9ffff
+      m_SelectedIDs: ec9fffff
+      m_LastClickedID: -24596
+      m_ExpandedIDs: c6a8ffff2a6200002c6200002e620000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -433,20 +433,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 61
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: 61
   m_LastProjectPath: C:\Users\Edmund\Documents\GitHub\fauvism\Fauvist Shader Brennan
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c8330000
-    m_LastClickedID: 13256
-    m_ExpandedIDs: 00000000c83300004438000010390000383900006240000000ca9a3b
+    scrollPos: {x: 0, y: 74}
+    m_SelectedIDs: 9c610000
+    m_LastClickedID: 24988
+    m_ExpandedIDs: 000000000c580000cc5b0000885c0000ac5c00003061000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -474,7 +474,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c833000044380000103900003839000062400000
+    m_ExpandedIDs: 000000000c580000cc5b0000885c0000ac5c000030610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,7 +501,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: b8380000be380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -646,9 +646,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.8593845, y: 2.4024978, z: 3.525941}
+    m_Target: {x: 0.2626133, y: 0.6440456, z: -0.037111282}
     speed: 2
-    m_Value: {x: 4.8593845, y: 2.4024978, z: 3.525941}
+    m_Value: {x: 0.2626133, y: 0.6440456, z: -0.037111282}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -677,13 +677,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.08273448, y: 0.18573736, z: -0.015695568, w: 0.9789911}
+    m_Target: {x: 0.11461924, y: -0.2530551, z: 0.030200938, w: 0.96017367}
     speed: 2
-    m_Value: {x: 0.08273394, y: 0.18573613, z: -0.015695466, w: 0.97898465}
+    m_Value: {x: 0.11461809, y: -0.25305256, z: 0.030200636, w: 0.96016407}
   m_Size:
-    m_Target: 16.870417
+    m_Target: 11.828709
     speed: 2
-    m_Value: 16.870417
+    m_Value: 11.828709
   m_Ortho:
     m_Target: 0
     speed: 2
